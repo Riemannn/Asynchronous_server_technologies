@@ -6,9 +6,6 @@
         "start": "./bin/start.sh",
         "test": "./bin/test.sh tests/*"
     },
-    "dependencies": {
-        "morgan": "^1.9.0"
-    },
     "devDependencies": {
         "mocha": "^4.0.1",
         "should": "^13.1.1"
