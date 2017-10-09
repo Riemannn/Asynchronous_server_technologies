@@ -3,8 +3,8 @@
     "description": "simple project for ECE AST class",
     "version": "0.0.1",
     "scripts": {
-        "start": "%CD%/bin/start",
-        "test": "%CD%/bin/test"
+        "start": "bash bin/start.sh",
+        "test": "bash bin/test.sh"
     },
     "dependencies": {
         "morgan": "^1.9.0"
