@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+       "timestamp": 22,
+       "value": 15
+    },
+    {
+       "timestamp": 41,
+       "value": 20
+    },
+    {
+       "timestamp": 32,
+       "value": 14
+    },
+    {
+       "timestamp": 51,
+       "value": 18
+    },
+    {
+       "timestamp": 46,
+       "value": 22
+    },
+    {
+       "timestamp": 16,
+       "value": 15
+    },
+    {
+       "timestamp": 19,
+       "value": 23
+    },
+    {
+       "timestamp": 49,
+       "value": 19
+    },
+    {
+       "timestamp": 43,
+       "value": 25
+    },
+    {
+       "timestamp": 18,
+       "value": 28
+    },
+    {
+       "timestamp": 25,
+       "value": 20
+    },
+    {
+       "timestamp": 11,
+       "value": 24
+    },
+    {
+       "timestamp": 2,
+       "value": 22
+    },
+    {
+       "timestamp": 54,
+       "value": 18
+    }
+   ]
+}
